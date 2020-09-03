@@ -48,6 +48,4 @@ It tooks 4hrs in google colab with 20000 epochs and then tested in my local syst
  5.In case you are not able to train in google colab,I have uploaded inference graph folder in github then you need to follow from Step-19 as Step-18 is performed just u need to download inference graph folder and paste it in models\research folder and then you can test it.   
   
   
-   <h2> HAPPY CODING </h2>
- 
  
