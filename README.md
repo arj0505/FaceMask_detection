@@ -7,7 +7,7 @@ It tooks 4hrs in google colab with 20000 epochs and then tested in my local syst
 1. Setup your environment and installed the packages required ,briefly provided in tfod_setup file.
  ![](Screenshots/cmd.JPG)
 
-<h1>Note -- Follow tfod_setup instructions till Step-16 bcoz Step-17 is training in local system and u can perform below lines for faster training in Google Colab </h1>
+<h1>Note -- Follow tfod_setup instructions till Step-16 bcoz Step-17 is training in local system and u can perform below lines for faster training in Google Colab</h1>
 
 2.I have trained in google colab so for that you have to mount your google drive in google colab and in google drive upload the file content of models
    
