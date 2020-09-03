@@ -37,15 +37,17 @@ It tooks 4hrs in google colab with 20000 epochs and then tested in my local syst
  3.After training is done in Colab then checkpoint files are created in Training folder in Models\Research\Training.Download and replace in your local system
     for generating .pb file from ckpt file and then further testing. 
     
-    ![](Screenshots/gdrive.jpg)
+  ![](Screenshots/gdrive.jpg)
     
  4.Then you can proceed from Step-18 in tfod_setup file and convert ckpt files into pb file and then run your object detection tutorial file and can test images.
  
-    ![](Screenshots/mask_test.png)
+  ![](Screenshots/mask_test.png)
     
-    ![](Screenshots/no_mask_test.png)
+  ![](Screenshots/no_mask_test.png)
     
  5.In case you are not able to train in google colab,I have uploaded inference graph folder in github then you need to follow from Step-19 as Step-18 is performed just u need to download inference graph folder and paste it in models\research folder and then you can test it.   
   
+  
+   <h2> HAPPY CODING </h2>
  
  
