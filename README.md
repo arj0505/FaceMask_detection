@@ -1,4 +1,4 @@
-<h1>FaceMask_detection</h1>
+<h1>Real-time face mask object detection</h1>
 
 A face mask detector using a neural network trained on a dataset of 1500 images with and without masks. Here are a few process steps of implementation:
 
